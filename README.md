@@ -1,0 +1,2 @@
+# nethsarawijesinghe.io
+computing fundamentals
